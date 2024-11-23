@@ -15,6 +15,29 @@
  * @author Juan Gama
  * @created 2017
  */
+
+'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+    'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
+'is',
+	'AKIAAAAAAAAAAAAAAAAA':
 package org.owasp.benchmark.service.pojo;
 
 import javax.xml.bind.annotation.XmlAttribute;
